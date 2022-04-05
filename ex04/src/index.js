@@ -1,7 +1,7 @@
 var myGlobalVariable = 10;
 
 function function1(){
-    myLocalVariable = 5;
+  var  myLocalVariable = 5;
 }
 
 
