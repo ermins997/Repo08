@@ -6,5 +6,5 @@ return dress;
 }
 
 console.log(myDress());
-
+myDress();
 module.exports = myDress;

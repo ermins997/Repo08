@@ -5,5 +5,5 @@ return rand;
 }
 
 console.log(randomInteger());
-
+randomInteger();
 module.exports = randomInteger;
